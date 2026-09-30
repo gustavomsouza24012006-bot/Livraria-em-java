@@ -1,4 +1,4 @@
-package Livros;
+package src.Livros;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -154,5 +154,4 @@ public class Biblioteca {
 
         new Biblioteca(autores, livros);
     }
-
 }
